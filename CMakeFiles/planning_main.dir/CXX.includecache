@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/admxf/Cmake/cmake_planning_test/planning_main.cpp
+iostream
+-
+process.h
+/home/admxf/Cmake/cmake_planning_test/process.h
+
+/home/admxf/Cmake/cmake_planning_test/pnc_map.cpp
+iostream
+-
+pnc_map.h
+/home/admxf/Cmake/cmake_planning_test/pnc_map.h
+
+/home/admxf/Cmake/cmake_planning_test/pnc_map.h
+
+/home/admxf/Cmake/cmake_planning_test/process.cpp
+iostream
+-
+process.h
+/home/admxf/Cmake/cmake_planning_test/process.h
+
+/home/admxf/Cmake/cmake_planning_test/process.h
+pnc_map.h
+-
+
