@@ -1,3 +1,0 @@
-/home/admxf/Cmake/cmake_planning_test/CMakeFiles/rebuild_cache.dir
-/home/admxf/Cmake/cmake_planning_test/CMakeFiles/planning_main.dir
-/home/admxf/Cmake/cmake_planning_test/CMakeFiles/edit_cache.dir
